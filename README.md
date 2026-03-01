@@ -20,7 +20,8 @@ Helm Charts
    ↓
 Kubernetes (EKS)
    ↓
-AWS Load Balancer (ALB)```
+AWS Load Balancer (ALB)
+```
 
 📦 Repository Structure
 ```infra-gitops/
@@ -30,7 +31,8 @@ AWS Load Balancer (ALB)```
 ├── clusters/
 │   └── dev/
 │       └── root-app.yaml        # App of Apps (root application)
-├── README.md```
+├── README.md
+```
 
 Explanation
 clusters/dev/root-app.yaml
